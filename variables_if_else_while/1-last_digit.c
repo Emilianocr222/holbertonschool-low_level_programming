@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - imprime el texto acorde al numero
+ * main - print the text according to the number
  *
- * Return: si sale 0 ests todo bien
+ * Return: If it comes out 0, everything is fine.
  */
 int main(void)
 {
